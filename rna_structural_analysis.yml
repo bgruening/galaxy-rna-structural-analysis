@@ -17,6 +17,10 @@ tools:
 - name: rnalien
   owner: rnateam
   tool_panel_section_label: "RNA Structure Analysis"
+
+- name: cmv
+  owner: rnateam
+  tool_panel_section_label: "RNA Structure Analysis"
   
 - name: mea
   owner: rnateam

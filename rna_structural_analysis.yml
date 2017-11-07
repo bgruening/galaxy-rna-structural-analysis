@@ -20,6 +20,7 @@ tools:
 
 - name: suite_cmv
   owner: rnateam
+  install_resolver_dependencies: false
   tool_panel_section_label: "RNA Structure Analysis"
   
 - name: mea

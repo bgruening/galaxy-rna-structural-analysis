@@ -18,7 +18,7 @@ tools:
   owner: rnateam
   tool_panel_section_label: "RNA Structure Analysis"
 
-- name: cmv
+- name: suite_cmv
   owner: rnateam
   tool_panel_section_label: "RNA Structure Analysis"
   

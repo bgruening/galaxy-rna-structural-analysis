@@ -10,10 +10,6 @@ tools:
   owner: rnateam
   tool_panel_section_label: "RNA Structure Analysis"
 
-- name: kinwalker
-  owner: rnateam
-  tool_panel_section_label: "RNA Structure Analysis"
-
 - name: rnalien
   owner: rnateam
   tool_panel_section_label: "RNA Structure Analysis"
@@ -39,6 +35,7 @@ tools:
   owner: rnateam
   tool_panel_section_label: "RNA Structure Analysis"
 
-- name: antarna
-  owner: rnateam
-  tool_panel_section_label: "RNA Structure Analysis"
+# remove until https://github.com/bgruening/galaxytools/pull/553 is fixed
+#- name: antarna
+#  owner: rnateam
+#  tool_panel_section_label: "RNA Structure Analysis"

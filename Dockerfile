@@ -1,6 +1,6 @@
 # Galaxy - RNA structural analysis
 
-FROM quay.io/bgruening/galaxy-rna-seq:17.09
+FROM quay.io/bgruening/galaxy-rna-seq:18.01
 
 MAINTAINER Björn A. Grüning, bjoern.gruening@gmail.com
 

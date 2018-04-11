@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/bgruening/galaxy-rna-structural-analysis.svg?branch=master)](https://travis-ci.org/bgruening/galaxy-rna-structural-analysis)
+[![CircleCI](https://circleci.com/gh/bgruening/galaxy-rna-structural-analysis/tree/master.svg?style=svg)](https://circleci.com/gh/bgruening/galaxy-rna-structural-analysis/tree/master)
 [![Docker Repository on Quay](https://quay.io/repository/bgruening/galaxy-rna-structural-analysis/status "Docker Repository on Quay")](https://quay.io/repository/bgruening/galaxy-rna-structural-analysis)
 
 Galaxy for RNA structural analysis
